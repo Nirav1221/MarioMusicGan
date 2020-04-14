@@ -48,10 +48,9 @@ For the LSTM network, we sample a random 100 note sequence from the corpus and i
 
 ## Results
 
-Here is our newly generated midi file ...
+Also check  generated midi files ...
 
-file
-```
+
 
 
 
