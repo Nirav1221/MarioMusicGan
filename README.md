@@ -5,11 +5,12 @@
 
   We wanted a relatively simple corpus of piano music to train and learn from. Additional criteria that would make the project more feasible in our time frame included finding tracks that were homogenous in genre and pattern, as well as tracks that avoided pauses. This is simply because we did not know how the models would handle note-less space while learning patterns. A set of 100 Super Mario tracks (in piano only) were selected from this online collection of MIDI files. The corpus contains solely background music (meaning no pauses).\
 \
+
 Here is a sample midi file ....
 
 
 
-```
+
 We used Music21, a library to extract the relevant information from the MIDI files. Music21 allows us to read each track’s notes and chords (groups of notes) into Python while maintaining their sequence. Each note is represented as its specific note-type or a corresponding number.
 
 
