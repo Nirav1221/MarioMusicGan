@@ -23,7 +23,7 @@ For the LSTM network, we sample a random 100 note sequence from the corpus and i
 
 ## 3 Phase Training
 
-* In first phase, we train our model with 2500 epoch, In this phase performance of generator as well as discriminator was so poor.
+* In first phase, we train our model with 5000 epoch, In this phase performance of generator as well as discriminator was so poor.
 
 
 <p align="center">
@@ -31,7 +31,7 @@ For the LSTM network, we sample a random 100 note sequence from the corpus and i
 </p>
 
 
-* In the second phase, we train our model with 5000 epoch, In this performance of discriminator was increased but generator still not able to produce good music.
+* In the second phase, we train our model with 10000 epoch, In this performance of discriminator was increased but generator still not able to produce good music.
 
 <p align="center">
     <img src="10K.jpeg" width="640"\>
