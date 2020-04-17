@@ -1,5 +1,8 @@
 # Objective
  In this project, our goal is to explore the use of LSTM and GAN neural networks to generate music that seems as if it were human-made.  The goal is that output music shoud resemble classic-mario game background loops. 
+ 
+### Video Link
+https://drive.google.com/file/d/1vl-4lB5uJ8uMdZ-xKOnRUJLH-OwA6xq9/view?usp=sharing
 
 ## Data Collection & Processing
 
